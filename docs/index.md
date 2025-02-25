@@ -1,15 +1,15 @@
-# Welcome to My Personal Site
+# Welcome to My Blog
 
 ## About Me
 
-Hello! I'm [Your Name], a [Your Role/Profession] passionate about [Your Interests]. I specialize in [Your Key Skills/Technologies] and love to create solutions that make a difference.
+Hello! I'm Roland Su, a devops engineer passionate about technology and life. I specialize in building scalable and efficient systems and love to create solutions that make a difference.
 
 ## What I Do
 
-- 💻 Currently working as [Current Role]
-- 🌱 Learning [Technologies/Skills you're learning]
+- 💻 Currently working as a devops engineer
+- 🌱 Learning new technologies and skills
 - 👯 Open to collaborate on interesting projects
-- 🎯 Focus areas: [Your Areas of Expertise]
+- 🎯 Focus areas: Linux, Cursor, AI, DevOps, Cloud, and more
 
 ## Quick Links
 
@@ -19,6 +19,6 @@ Hello! I'm [Your Name], a [Your Role/Profession] passionate about [Your Interest
 
 ## Get in Touch
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: liweisu59@gmail.com
 - 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐱 GitHub: [Your GitHub Profile]
+- 🐱 GitHub: https://github.com/liweisu0

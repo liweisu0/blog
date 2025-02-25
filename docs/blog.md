@@ -4,12 +4,12 @@ Welcome to my blog! Here you'll find my thoughts, experiences, and tutorials on 
 
 ## Latest Posts
 
-### My Journey into Tech
-*Posted on [Date]*
+### My First Time Hackathon
+*Posted on Feb 25, 2025*
 
-As I begin this blog, I wanted to share my journey into the tech world and what drives me to create and innovate...
+Excited to share my experience at my first hackathon! It was an incredible journey of learning, collaboration, and pushing boundaries...
 
-[Continue reading...](/blog/journey-into-tech.md)
+[Continue reading...](/blog/my-first-hackathon.md)
 
 ## Categories
 
