@@ -27,9 +27,33 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - language.selector
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 中文
+      link: /zh/
+      lang: zh
+    - name: 日本語
+      link: /ja/
+      lang: ja
 
 nav:
-  - Home: index.md
-  - Blog: blog.md
-  - Career: career.md
-  - Projects: projects.md
+  - English:
+    - Home: index.md
+    - Blog: blog.md
+    - Career: career.md
+    - Projects: projects.md
+  - 中文:
+    - 主页: zh/index.md
+    - 博客: zh/blog.md
+    - 职业经历: zh/career.md
+    - 项目: zh/projects.md
+  - 日本語:
+    - ホーム: ja/index.md
+    - ブログ: ja/blog.md
+    - 経歴: ja/career.md
+    - プロジェクト: ja/projects.md
