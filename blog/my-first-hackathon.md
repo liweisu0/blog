@@ -4,43 +4,20 @@
 
 ## The Beginning
 
-What led me to join this hackathon and what were my initial expectations...
+This is hackathon that no code, and newbie friendly, which called Climate Change-Maker. We chose it for practise.
 
-## The Challenge
+## Whole progress
 
-The problem we chose to tackle and why we thought it was important...
+At first I wanted to do solo, we are four and each one did a project. But later the organizer require us to teamup, and everyone hadn't start project yet except Du, so our project was built on hers.
 
-## Our Solution
+This is the first time that I organize a bunch of people do the activity, of course, also other first time:
+- first time to be a translator in team
+- first time to know I don't know the difference of 12:30AM and 12:30PM
+- first time use *Canva* to make a video
 
-### The Tech Stack
-- Technology 1
-- Technology 2
-- Technology 3
+Finally, on the late night of Feb 23, we finished our project and published it on Youtube.
 
-### Key Features
-1. Feature 1
-2. Feature 2
-3. Feature 3
-
-## The Experience
-
-### What Went Well
-- Point 1
-- Point 2
-- Point 3
-
-### Challenges Faced
-- Challenge 1
-- Challenge 2
-- Challenge 3
-
-## Lessons Learned
-
-What I learned from this experience and how it changed my perspective...
-
-## Next Steps
-
-How I plan to build upon this experience...
+Thanks to my teammates, and I expect to dive in the second one!
 
 ## Project Links
 - 🔗 GitHub Repository: [link-to-repo]

@@ -1,7 +1,7 @@
 # Career Journey
 
 ## Current Position
-**[Current Role]** at **[Company Name]**  
+**Java Developer** at **Guangzhou**  
 *[Start Date] - Present*
 
 - Key responsibility 1
