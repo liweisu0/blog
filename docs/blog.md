@@ -9,14 +9,14 @@ Welcome to my blog! Here you'll find my thoughts, experiences, and tutorials on 
 
 Today I want to share my experience dealing with a tricky package management issue in Arch Linux and how I solved it...
 
-[Continue reading...](/blog/arch-troubleshooting.md)
+[Continue reading...](blog/arch-troubleshooting.md)
 
 ### My First Time Hackathon
 *Posted on Feb 25, 2025*
 
 Excited to share my experience at my first hackathon! It was an incredible journey of learning, collaboration, and pushing boundaries...
 
-[Continue reading...](/blog/my-first-hackathon.md)
+[Continue reading...](blog/my-first-hackathon.md)
 
 ## Categories
 
