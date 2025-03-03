@@ -13,9 +13,10 @@ Hello! I'm Roland Su, a Java Web Engineer passionate about technology and life. 
 
 ## Quick Links
 
-- [Read My Blog](/blog) - Thoughts, tutorials, and tech insights
-- [Career Journey](/career) - Professional experience and milestones
-- [Projects](/projects) - Portfolio of my work and contributions
+- [Read My Blog](blog.md) - Thoughts, tutorials, and tech insights
+- [Career Journey](career.md) - Professional experience and milestones
+- [Projects](projects.md) - Portfolio of my work and contributions
+- [Weekly Life Reviews](weekly-reviews.md) - One week at a time
 
 ## Get in Touch
 
