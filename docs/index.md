@@ -20,6 +20,6 @@ Hello! I'm Roland Su, a Java Web Engineer passionate about technology and life. 
 
 ## Get in Touch
 
-- 📧 Email: liweisu59@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/liwei-su-066035350/
-- 🐱 GitHub: https://github.com/liweisu0
+- 📧 Email: [liweisu59@gmail.com](mailto:liweisu59@gmail.com)
+- 🔗 LinkedIn: [Roland Su](https://www.linkedin.com/in/liwei-su-066035350/)
+- 🐱 GitHub: [Liwei Su](https://github.com/liweisu0)
