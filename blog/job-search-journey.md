@@ -1,23 +1,23 @@
-# A One-Year Story Of Me, Job Finder
+# 私の1年間の就職活動の物語
 
-*Posted on March 10, 2025 by Roland Su*
+*2025年3月10日 投稿者：Roland Su*
 
-From a fresh graduate to a job seeker, here's my story.
+新卒から求職者へ、これが私の物語です。
 
-I had a internship in Guangzhou Unicom, and at that time I served as a *Product Manager*. Later, because of the atmosphere of the company, I decided to leave and seek for a new opportunity. At that time, it was the end of 2023.
+私は広州ユニコムでインターンシップを経験し、その時*プロダクトマネージャー*として働いていました。後に、会社の雰囲気のため、退職して新しい機会を探すことにしました。それは2023年末のことでした。
 
-At the beginning of 2024, I started to learn Web Security from a team called *Day1*, at that time my dream was to become a Web Security Hacker, finding vulnerabilities and make money.
+2024年初め、*Day1*というチームからWebセキュリティを学び始め、その時の私の夢はWebセキュリティハッカーになり、脆弱性を見つけてお金を稼ぐことでした。
 
-After 6 months of learning, I found that I was not interested in Web Security, so I decided to leave the team. The only thing I got is 1.2k RMB from AliCloud, which is from the Bug Bounty Program.
+6ヶ月の学習の後、Webセキュリティに興味がないことに気づき、チームを離れることにしました。得たものはバグ報奨金プログラムからのAliCloudからの1.2k人民元だけでした。
 
-After that, I started to search for a new job, but I didn't know what I wanted to do. I applied for a lot of jobs, but I didn't get any offer.
+その後、新しい仕事を探し始めましたが、何をしたいのか分かりませんでした。多くの仕事に応募しましたが、オファーは得られませんでした。
 
-At the end of July, 2024, I got a interview from Tencent, it's a Redis position from Tecent Game, I was really excited first, but later I fell, the recruiter told me that the resume I wrote was not good, and the learning methods had to be changed.
+2024年7月末、テンセントからの面接機会を得ました。テンセントゲームのRedisポジションでした。最初はとても興奮しましたが、後に失敗しました。リクルーターは私の書いた履歴書が良くなく、学習方法も変える必要があると言いました。
 
-As I didn't know what to do, sleeping on bed in the dark rent house everyday, my dad called me and told me that there is a job in Guangzhou Joysim, then I went it. It was late November, 2024.
+何をすべきか分からず、毎日暗い賃貸住宅のベッドで寝ていると、父が電話をかけてきて広州Joysimに仕事があると言いました。それで私はそこに行きました。2024年11月末のことでした。
 
-Well, not bad, uh? At least I have some money could feed myself.
+まあ、悪くないでしょう？少なくとも自分を養うためのお金はあります。
 
-After these and that, I slowly know what I want, and what I truly interested in.
+これらの経験を経て、私は自分が何を望み、何に本当に興味があるのかをゆっくりと理解するようになりました。
 
-*Tags: #Career #JobSearch #PersonalGrowth* 
+*タグ: #Career #JobSearch #PersonalGrowth* 

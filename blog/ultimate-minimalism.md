@@ -1,21 +1,21 @@
-# Ultimate Minimalism
+# 究極のミニマリズム
 
-*Posted on February 10, 2025 by Roland Su*
+*2025年2月10日 投稿者：Roland Su*
 
-> The tools you use are reflected the person you are.
+> 使用するツールはあなたがどんな人かを反映しています。
 
-Where did I start this journey? I don't know, maybe because the use of Arch Linux.
+この旅をどこから始めたのか？分かりません、おそらくArch Linuxの使用からでしょう。
 
-I could easily delete/uninstall the file/software I don't use or want. Later, I implement this to my life.
+使わないまたは欲しくないファイル/ソフトウェアを簡単に削除/アンインストールできました。後に、これを私の生活に取り入れました。
 
-If I found something really annoying, throw it! If wanna make a change? Do it!
+本当に煩わしいものを見つけたら、捨てる！変化を望むなら？やればいい！
 
-Slowly but steadily, I gave up using things like Bilibili, Youtube, Wechat, etc.
+ゆっくりと着実に、ビリビリ、YouTube、WeChatなどの使用をやめました。
 
-They are just tools to me.
+それらは私にとって単なるツールです。
 
-I don't need them if I wish.
+望めば必要ありません。
 
-Then, this is the minimalism.
+これがミニマリズムです。
 
-*Tags: #Minimalism #Lifestyle #Simplicity* 
+*タグ: #Minimalism #Lifestyle #Simplicity* 

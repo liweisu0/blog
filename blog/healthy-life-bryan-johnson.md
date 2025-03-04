@@ -1,11 +1,11 @@
-# Healthy Life, Inspired by Bryan Johnson
+# Bryan Johnsonに触発された健康的な生活
 
-*Posted on February 1, 2025 by Roland Su*
+*2025年2月1日 投稿者：Roland Su*
 
-## Introduction
+## はじめに
 
-How Bryan Johnson's approach to longevity and health optimization has influenced my own health journey.
+Bryan Johnsonの長寿と健康最適化へのアプローチが私自身の健康の旅にどのように影響を与えたか。
 
-## Content coming soon...
+## コンテンツ近日公開...
 
-*Tags: #Health #Longevity #Wellness* 
+*タグ: #Health #Longevity #Wellness* 
