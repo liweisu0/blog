@@ -2,10 +2,10 @@
 
 *Posted on March 5, 2025 by Roland Su*
 
-## Introduction
+One day I shutdown the touchpad, using bluetooth mouse, and I don't know why, I shutdown the bluetooth too!
 
-Common touchpad issues on Linux systems and how to solve them once and for all.
+That mean I have to use keyboard to restart the bluetooth, or reopen the bluetooth in settings.
 
-## Content coming soon...
+Want to know the solvement? Reboot the system!
 
 *Tags: #Linux #Troubleshooting #Hardware* 

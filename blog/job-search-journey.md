@@ -16,5 +16,8 @@ At the end of July, 2024, I got a interview from Tencent, it's a Redis position 
 
 As I didn't know what to do, sleeping on bed in the dark rent house everyday, my dad called me and told me that there is a job in Guangzhou Joysim, then I went it. It was late November, 2024.
 
+Well, not bad, uh? At least I have some money could feed myself.
+
+After these and that, I slowly know what I want, and what I truly interested in.
 
 *Tags: #Career #JobSearch #PersonalGrowth* 

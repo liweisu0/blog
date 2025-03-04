@@ -25,13 +25,6 @@ Common touchpad issues on Linux systems and how to solve them once and for all.
 
 [Continue reading...](../blog/touchpad-fix.md)
 
-### Kehua, A Dating App That Doesn't Want To Be Date
-*Posted on March 1, 2025*
-
-Analysis of Kehua's unique approach to social connections and why it stands out in the crowded dating app market.
-
-[Continue reading...](../blog/kehua-dating-app.md)
-
 ### GigaCafe: A Thought To Hackathon Activities In China
 *Posted on February 28, 2025*
 
@@ -73,13 +66,6 @@ Financial lessons learned the hard way - my credit card mistakes and how I recov
 My journey toward minimalism - philosophy, practical applications, and how it changed my perspective on possessions.
 
 [Continue reading...](../blog/ultimate-minimalism.md)
-
-### Convenience VS Privacy, I Choose The Front
-*Posted on February 5, 2025*
-
-Exploring the trade-offs between convenience and privacy in modern technology, and why I lean toward convenience.
-
-[Continue reading...](../blog/convenience-vs-privacy.md)
 
 ### Healthy Life, Inspired by Bryan Johnson
 *Posted on February 1, 2025*
