@@ -4,13 +4,13 @@ This is where I document my life, one week at a time. These weekly reviews help 
 
 ## Latest Reviews
 
-### [Week 3: Finding My Rhythm](../weekly-reviews/week-3.md)
+### [Week 3: Finding My Rhythm](/weekly-reviews/week-3.md)
 *March 11-17, 2025*
 
-### [Week 2: Unexpected Challenges](../weekly-reviews/week-2.md)
+### [Week 2: Unexpected Challenges](/weekly-reviews/week-2.md)
 *March 4-10, 2025*
 
-### [Week 1: New Beginnings](../weekly-reviews/week-1.md)
+### [Week 1: New Beginnings](/weekly-reviews/week-1.md)
 *February 25-March 3, 2025*
 
 ## Why Weekly Reviews?

@@ -49,6 +49,12 @@ nav:
       - 'Some Thoughts On AI': blog/thoughts-on-ai.md
       - 'Ultimate Minimalism': blog/ultimate-minimalism.md
       - 'Healthy Life, Inspired by Bryan Johnson': blog/healthy-life-bryan-johnson.md
+  - Weekly Reviews:
+    - Overview: weekly-reviews.md
+    - Reviews:
+      - 'Week 3: Finding My Rhythm': weekly-reviews/week-3.md
+      - 'Week 2: Unexpected Challenges': weekly-reviews/week-2.md
+      - 'Week 1: New Beginnings': weekly-reviews/week-1.md
   - Projects: projects.md
   - About: about.md
   - Contact: contact.md
