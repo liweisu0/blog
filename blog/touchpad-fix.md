@@ -1,11 +1,11 @@
-# [修正] タッチパッドの謎
+# [Fix] Touchpad Myth
 
-*2025年3月5日 投稿者：Roland Su*
+*Posted on March 5, 2025 by Roland Su*
 
-ある日、タッチパッドをオフにしてBluetoothマウスを使っていたのですが、なぜかBluetoothもオフにしてしまいました！
+One day I shutdown the touchpad, using bluetooth mouse, and I don't know why, I shutdown the bluetooth too!
 
-これはキーボードを使ってBluetoothを再起動するか、設定でBluetoothを再度オンにする必要があることを意味します。
+That mean I have to use keyboard to restart the bluetooth, or reopen the bluetooth in settings.
 
-解決策を知りたいですか？システムを再起動すればいいのです！
+Want to know the solvement? Reboot the system!
 
-*タグ: #Linux #Troubleshooting #Hardware* 
+*Tags: #Linux #Troubleshooting #Hardware* 

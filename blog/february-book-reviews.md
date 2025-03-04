@@ -1,8 +1,8 @@
-# 2月の書評
+# Books Reviews in February
 
-*2025年2月27日 投稿者：Roland Su*
+*Posted on February 27, 2025 by Roland Su*
 
-以下は私が読んだ本のリストです：
+Below are the books list I read:
 
 - 可爱的中国
 - 正心正念：凡事发生皆有利于我
@@ -12,4 +12,4 @@
 - 夜班
 - 半小时漫画中国史
 
-*タグ: #Books #Reading #Reviews* 
+*Tags: #Books #Reading #Reviews* 

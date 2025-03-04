@@ -1,37 +1,37 @@
-# Arch Linuxを使って2年間の経験
+# Two Years Experience With Arch Linux
 
-*2025年3月8日 投稿者：Roland Su*
+*Posted on March 8, 2025 by Roland Su*
 
-私はArch Linuxを日常的に2年間使用しています。
+I've been using Arch Linux as my daily driver for two years.
 
-## 始まり
+## The Beginning
 
-私は2023年、大学在学中にArch Linuxの使用を始めました。当時はWindows 10を使用していましたが、何か新しいものを試してみたいと思いました。
+I started using Arch Linux in 2023, when I was in the university. At that time, I was using Windows 10, but I wanted to try something new.
 
-多くのArchユーザーと同様に、私はWindowsからUbuntuへ、そしてArch Linuxへと移行しました。
+As many Arch users, I switched from Windows to Ubuntu, then to Arch Linux.
 
-## 学習曲線
+## The Learning Curve
 
-うーん...2023年末、パンデミックのため家にいた時、Archのドキュメントを片手に寝て、数週間の苦闘の末、ついに私のPCにArch Linuxをインストールしました。
+Well...at the late 2023, because of pandamic, I stayed at home, sleep the Arch Doc with me, after several weeks struggling, I finally installed Arch Linux on my pc.
 
-初めて起動に成功した時は興奮しました！しかし後になって、まだ暗闇の中にいることに気づきました。
+I was excited when I first successfully booted it! But later I knew that I was in the dark.
 
-使いこなすのは技術的でした。何か問題が発生した時、私がほとんどやったのは再インストールでした。長い時間が経ってから、ArchISOを使って修復できることを知りました。
+It's hacky to use it. When something went wrong, the most things I did were reinstall. After a long time then I knew I could use ArchISO to fix it.
 
-## カスタマイズ
+## The Customizations
 
-> 後に気づいたのは、技術は現実世界の問題を解決するためのものであり、ギークになるためのものではないということです。
+> Later I realized, the tech is to solve the real world problems, not to be a geek.
 
-デスクトップ環境：GNOME -> KDE -> GNOME -> i3 -> Budgie -> i3 -> Budgie -> LXQT-> KDE
+Desktop Environment: GNOME -> KDE -> GNOME -> i3 -> Budgie -> i3 -> Budgie -> LXQT-> KDE
 
-ターミナル：GNOME Terminal -> Konsole -> GNOME Terminal -> Kitty -> Cursor
+Terminal: GNOME Terminal -> Konsole -> GNOME Terminal -> Kitty -> Cursor
 
-ブラウザ：Firefox -> Librewolf -> Tor Browser -> Firefox -> Google Chrome -> ChatGPT
+Browser: Firefox -> Librewolf -> Tor Browser -> Firefox -> Google Chrome -> ChatGPT
 
-かつては非常にギークでプライバシーを重視していましたが、それは不必要に多くの時間を浪費しました。最終的に、効率が第一です。
+I used to very geek and privacy, and it unnecessarily wasted me too much time. Finally, efficiency is the first.
 
-## なぜまだArch Linuxなのか？
+## Why Arch Linux, Still?
 
-私はLinuxのターミナルとパッケージマネージャーが好きです、それだけです。
+I love the linux terminal, and package manager, that's it.
 
-*タグ: #Linux #ArchLinux #Technology* 
+*Tags: #Linux #ArchLinux #Technology* 

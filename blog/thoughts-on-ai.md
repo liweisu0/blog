@@ -1,19 +1,19 @@
-# AIに関する考察
+# Some Thoughts On AI
 
-*2025年2月20日 投稿者：Roland Su*
+*Posted on February 20, 2025 by Roland Su*
 
-私が初めてAIを使ったのは2023年3月初めでした。当時、ChatGPTは地球上の誰もが驚くものでした。
+When I first used AI, it was early March in 2023. At that time, ChatGPT blowed everyone's mind on earth.
 
-ChatGPT Plusに課金した後の感想は：ただの賢いチャットボット、それだけです。
+After I charged for ChatGPT Plus, the feeling is like: just a smarter chatbot, that's it.
 
-2年が経ち、ChatGPTを再課金する2週間前、最初のチャットだけで私の心を吹き飛ばすのに十分でした！
+Two years went by, two weeks before I recharge ChatGPT, the first chat just enough to blow my mind!
 
-とても役立ちます！
+So, Damn, Useful!
 
-英語や他の言語を練習することができます。また、深い研究もできます。
+I could practise English with it, along with other languages. Also I could do deep research with it.
 
-去年やった恥ずかしいことを覚えています：gptが登場した時、多くの人がそれについて話していました。Tandemでのオンラインチャットで、皆がAIがどれほど素晴らしく危険かについて話している中、私は「まあ、私の生活では誰もAIを使っていないので大丈夫です」と言いました。皆が静かになりました。
+I remember an embarrassing thing I did last year: when gpt came out, lots of people talked about it. It was a online chat in Tandem, while everyone were talking about how fantasy and dangerous the AI is, I said, "Well, it's ok for me because no one use AI in my life." Everyone went quiet.
 
-今、私はAIが本当に世界を変えることができると信じています。
+Now I believe that AI could truly change the world.
 
-*タグ: #AI #Technology #Future* 
+*Tags: #AI #Technology #Future* 

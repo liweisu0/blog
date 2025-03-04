@@ -1,60 +1,64 @@
-site_name: "BTW: Blog, Tech, Wisdom"
-site_url: "https://btw.suliwei.foo"
+site_name: Roland Su
+site_url: https://rolandsu.com
+site_author: Roland Su
+site_description: Personal website and blog of Roland Su
 
 theme:
   name: material
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: deep purple
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    # Dark mode - more Arch-like!
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: indigo
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    primary: indigo
+    accent: indigo
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - language.selector
+    - navigation.expand
+    - navigation.indexes
+    - content.code.copy
+    - toc.follow
 
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: 日本語
-      link: /ja/
-      lang: ja
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - footnotes
+  - meta
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
 
 nav:
-  - English:
-    - Home: index.md
-    - Blog: blog.md
-    - Weekly Reviews: weekly-reviews.md
-    - Career: career.md
-    - Projects: projects.md
-  - 中文:
-    - 主页: zh/index.md
-    - 博客: zh/blog.md
-    - 职业经历: zh/career.md
-    - 项目: zh/projects.md
-  - 日本語:
-    - ホーム: ja/index.md
-    - ブログ: ja/blog.md
-    - 経歴: ja/career.md
-    - プロジェクト: ja/projects.md
+  - Home: index.md
+  - Blog:
+    - Overview: blog.md
+    - Posts:
+      - 'A One-Year Story Of Me, Job Finder': blog/job-search-journey.md
+      - 'Two Years Experience With Arch Linux': blog/arch-linux-experience.md
+      - '[Fix] Touchpad Myth': blog/touchpad-fix.md
+      - 'GigaCafe: A Thought To Hackathon Activities In China': blog/gigacafe-hackathons.md
+      - 'Books Reviews in February': blog/february-book-reviews.md
+      - 'My First Time Hackathon': blog/my-first-hackathon.md
+      - 'Some Thoughts On AI': blog/thoughts-on-ai.md
+      - 'Ultimate Minimalism': blog/ultimate-minimalism.md
+      - 'Healthy Life, Inspired by Bryan Johnson': blog/healthy-life-bryan-johnson.md
+  - Projects: projects.md
+  - About: about.md
+  - Contact: contact.md
+  - Tags: tags.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/liweisu0
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/liwei-su-066035350/
+    - icon: fontawesome/solid/envelope
+      link: mailto:liweisu59@gmail.com

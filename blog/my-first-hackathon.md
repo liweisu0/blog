@@ -1,27 +1,27 @@
-# 私の初めてのハッカソン
+# My First Time Hackathon
 
-*2025年2月25日 投稿者：Roland Su*
+*Posted on Feb 25, 2025 by Roland Su*
 
-## 始まり
+## The Beginning
 
-これはコードが不要で初心者に優しいハッカソンで、Climate Change-Makerと呼ばれています。私たちは練習のためにこれを選びました。
+This is hackathon that no code, and newbie friendly, which called Climate Change-Maker. We chose it for practise.
 
-## 全体の進行
+## Whole progress
 
-最初は一人でやりたいと思い、私たち4人がそれぞれプロジェクトを行っていました。しかし後に主催者からチームを組むよう要求され、杜さん以外は誰もプロジェクトを始めていなかったので、私たちのプロジェクトは彼女のものをベースに構築されました。
+At first I wanted to do solo, we are four and each one did a project. But later the organizer require us to teamup, and everyone hadn't start project yet except Du, so our project was built on hers.
 
-これは私が初めて人々のグループを組織して活動した経験であり、もちろん、他の初めての経験もありました：
-- チームで初めて翻訳者を務めた
-- 12:30AMと12:30PMの違いを知らなかったことを初めて知った
-- 初めて*Canva*を使ってビデオを作成した
+This is the first time that I organize a bunch of people do the activity, of course, also other first time:
+- first time to be a translator in team
+- first time to know I don't know the difference of 12:30AM and 12:30PM
+- first time use *Canva* to make a video
 
-最終的に、2月23日の深夜に私たちはプロジェクトを完成させ、YouTubeに公開しました。
+Finally, on the late night of Feb 23, we finished our project and published it on Youtube.
 
-チームメイトに感謝し、2回目に挑戦するのを楽しみにしています！
+Thanks to my teammates, and I expect to dive in the second one!
 
-## プロジェクトリンク
-- 🌐 ライブデモ：[広州での教育活動](https://youtu.be/hjuB3koOqZQ)
+## Project Links
+- 🌐 Live Demo: [Educational Activity in Guangzhou](https://youtu.be/hjuB3koOqZQ)
 
 ---
 
-*タグ: #Hackathon #Innovation #Programming #TeamWork*
+*Tags: #Hackathon #Innovation #Programming #TeamWork*
