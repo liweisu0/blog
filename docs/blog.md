@@ -53,13 +53,6 @@ Reflections on the current state of AI, its impact on society, and where we migh
 
 [Continue reading...](../blog/thoughts-on-ai.md)
 
-### My Misuse Of Credit Cards In The Early Days
-*Posted on February 15, 2025*
-
-Financial lessons learned the hard way - my credit card mistakes and how I recovered from them.
-
-[Continue reading...](../blog/credit-card-mistakes.md)
-
 ### Ultimate Minimalism
 *Posted on February 10, 2025*
 
